@@ -3,8 +3,8 @@
     {
       "id": 1,
       "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "description": "The Lord of the Rings: The Fellowship of the Ring description",
-      "price": "$9.99",
+      "description": "Here should go specific book description text",
+      "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
       "imageUrl": ""
@@ -12,8 +12,8 @@
     {
       "id": 2,
       "title": "The Lord of the Rings: The Two Towers",
-      "description": "The Lord of the Rings: The Two Towers description",
-      "price": "$9.99",
+      "description": "Here should go specific book description text",
+      "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Two_Towers",
       "imageUrl": ""
@@ -21,37 +21,73 @@
     {
       "id": 3,
       "title": "The Lord of the Rings: The Return of the King",
-      "description": "The Lord of the Rings: The Return of the King description",
-      "price": "$9.99",
+      "description": "Here should go specific book description text",
+      "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Return_of_the_King",
       "imageUrl": ""
     },
     {
       "id": 4,
-      "title": "Book 4",
-      "description": "Book 4 description",
-      "price": "$9.99",
+      "title": "Harry Potter and The Philosophers Stone",
+      "description": "Here should go specific book description text",
+      "price": "$9.81",
       "rating": 10,
-      "link": "google.com",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
       "imageUrl": ""
     },
     {
       "id": 5,
-      "title": "Book 5",
-      "description": "Book 5 description",
-      "price": "$9.99",
+      "title": "Harry Potter and The Chamber of Secrets",
+      "description": "Here should go specific book description text",
+      "price": "$9.81",
       "rating": 10,
-      "link": "google.com",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets",
       "imageUrl": ""
     },
     {
       "id": 6,
-      "title": "Book 6",
-      "description": "Book 6 description",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "description": "Here should go specific book description text",
+      "price": "$9.81",
+      "rating": 10,
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
+      "imageUrl": ""
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Goblet of Fire",
+      "description": "Here should go specific book description text",
+      "price": "$9.81",
+      "rating": 10,
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
+      "imageUrl": ""
+    },
+    {
+      "id": 8,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "description": "Here should go specific book description text",
+      "price": "$9.81",
+      "rating": 10,
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix",
+      "imageUrl": ""
+    },
+    {
+      "id": 9,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "description": "Here should go specific book description text",
+      "price": "$9.81",
+      "rating": 10,
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince",
+      "imageUrl": ""
+    },
+    {
+      "id": 10,
+      "title": "Harry Potter and the Deathly Hallows",
+      "description": "Here should go specific book description text",
       "price": "$9.99",
       "rating": 10,
-      "link": "google.com",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows",
       "imageUrl": ""
     }
   ]
