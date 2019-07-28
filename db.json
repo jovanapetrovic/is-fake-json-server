@@ -2,33 +2,37 @@
   "books": [
     {
       "id": 1,
-      "title": "Book 1",
-      "description": "Book 1 description",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "The Lord of the Rings: The Fellowship of the Ring description",
       "price": "$9.99",
-      "link": "google.com",
-      "imageUrl": ""
+      "rating": 10,
+      "link": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
+      imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/The_Fellowship_of_the_Ring_cover.gif/220px-The_Fellowship_of_the_Ring_cover.gif"
     },
     {
       "id": 2,
-      "title": "Book 2",
-      "description": "Book 2 description",
+      "title": "The Lord of the Rings: The Two Towers",
+      "description": "The Lord of the Rings: The Two Towers description",
       "price": "$9.99",
-      "link": "google.com",
-      "imageUrl": ""
+      "rating": 10,
+      "link": "https://en.wikipedia.org/wiki/The_Two_Towers",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/The_Two_Towers_cover.gif/220px-The_Two_Towers_cover.gif"
     },
     {
       "id": 3,
-      "title": "Book 3",
-      "description": "Book 3 description",
+      "title": "The Lord of the Rings: The Return of the King",
+      "description": "The Lord of the Rings: The Return of the King description",
       "price": "$9.99",
-      "link": "google.com",
-      "imageUrl": ""
+      "rating": 10,
+      "link": "https://en.wikipedia.org/wiki/The_Return_of_the_King",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/The_Return_of_the_King_cover.gif/220px-The_Return_of_the_King_cover.gif"
     },
     {
       "id": 4,
       "title": "Book 4",
       "description": "Book 4 description",
       "price": "$9.99",
+      "rating": 10,
       "link": "google.com",
       "imageUrl": ""
     },
@@ -37,6 +41,7 @@
       "title": "Book 5",
       "description": "Book 5 description",
       "price": "$9.99",
+      "rating": 10,
       "link": "google.com",
       "imageUrl": ""
     },
@@ -45,6 +50,7 @@
       "title": "Book 6",
       "description": "Book 6 description",
       "price": "$9.99",
+      "rating": 10,
       "link": "google.com",
       "imageUrl": ""
     }
