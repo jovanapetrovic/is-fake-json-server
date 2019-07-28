@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "description": "The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold",
+      "description": "The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien. The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold",
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "title": "The Lord of the Rings: The Two Towers",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien. The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold",
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Two_Towers",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "title": "The Lord of the Rings: The Return of the King",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien. The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold",
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Return_of_the_King",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "title": "Harry Potter and The Philosophers Stone",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry.",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
