@@ -39,7 +39,7 @@
     {
       "id": 5,
       "title": "Harry Potter and The Chamber of Secrets",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry.",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "title": "Harry Potter and the Prisoner of Azkaban",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry.",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "title": "Harry Potter and the Goblet of Fire",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry.",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
@@ -66,7 +66,7 @@
     {
       "id": 8,
       "title": "Harry Potter and the Order of the Phoenix",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry.",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix",
@@ -75,7 +75,7 @@
     {
       "id": 9,
       "title": "Harry Potter and the Half-Blood Prince",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry.",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince",
@@ -84,7 +84,7 @@
     {
       "id": 10,
       "title": "Harry Potter and the Deathly Hallows",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry.",
       "price": "$9.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows",
