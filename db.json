@@ -3,16 +3,16 @@
     {
       "id": 1,
       "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/The_Fellowship_of_the_Ring_cover.gif/220px-The_Fellowship_of_the_Ring_cover.gif"
     },
     {
       "id": 2,
       "title": "The Lord of the Rings: The Two Towers",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Two_Towers",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "title": "The Lord of the Rings: The Return of the King",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Return_of_the_King",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "title": "Harry Potter and The Philosophers Stone",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "title": "Harry Potter and The Chamber of Secrets",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "title": "Harry Potter and the Prisoner of Azkaban",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "title": "Harry Potter and the Goblet of Fire",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
@@ -66,7 +66,7 @@
     {
       "id": 8,
       "title": "Harry Potter and the Order of the Phoenix",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix",
@@ -75,7 +75,7 @@
     {
       "id": 9,
       "title": "Harry Potter and the Half-Blood Prince",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince",
@@ -84,7 +84,7 @@
     {
       "id": 10,
       "title": "Harry Potter and the Deathly Hallows",
-      "description": "Here should go specific book description text",
+      "description": "Here should go specific book description text bla bla bla...",
       "price": "$9.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows",
