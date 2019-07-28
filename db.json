@@ -16,7 +16,7 @@
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Two_Towers",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/The_Two_Towers_cover.gif/220px-The_Two_Towers_cover.gif"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Return_of_the_King",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/The_Return_of_the_King_cover.gif/220px-The_Return_of_the_King_cover.gif"
     },
     {
       "id": 4,
