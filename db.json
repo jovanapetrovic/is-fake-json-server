@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "description": "Here should go specific book description text bla bla bla...",
+      "description": "The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold",
       "price": "$11.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
@@ -34,7 +34,7 @@
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg/220px-Harry_Potter_and_the_Chamber_of_Secrets.jpg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a0/Harry_Potter_and_the_Prisoner_of_Azkaban.jpg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/Harry_Potter_and_the_Goblet_of_Fire.jpg"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg/220px-Harry_Potter_and_the_Order_of_the_Phoenix.jpg"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "price": "$9.81",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f0/Harry_Potter_and_the_Half-Blood_Prince.jpg"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "price": "$9.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows",
-      "imageUrl": ""
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg"
     }
   ]
 }
