@@ -7,7 +7,7 @@
       "price": "$9.99",
       "rating": 10,
       "link": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
-      imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/The_Fellowship_of_the_Ring_cover.gif/220px-The_Fellowship_of_the_Ring_cover.gif"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/The_Fellowship_of_the_Ring_cover.gif/220px-The_Fellowship_of_the_Ring_cover.gif"
     },
     {
       "id": 2,
